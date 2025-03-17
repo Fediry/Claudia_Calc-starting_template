@@ -7,6 +7,12 @@
  Credit to Chris Pirz for the original Docker file.
  https://github.com/ChristopherPisz/DevEnvCpp
 
+## Requirements:
+ * VS Code
+ * Docker (or Docker-Desktop)
+ * Docker extension on VS Code
+ * Dev Containers extension on VS Code
+
 ## Installation:
  * Clone the repo (or download the .zip file, and extract it) to a folder of your choice.
  * Open that folder in VS Code
